@@ -7,9 +7,9 @@ var sumOne=(numOne / numTwo);
 var sumTwo=(numThree / numOne);
 var sumThree=(numFour % numFour);
 
-var sumFour=(sumOne + sumTwo - sumThree);
+var sum=(sumOne + sumTwo - sumThree);
 
-console.log("sum = " + sumFour);
+console.log("sum = " + sum);
 
 
 
