@@ -9,3 +9,6 @@ console.log(numOne - numTwo);
 console.log(numOne / numTwo);
 console.log(numOne % numTwo);
 console.log(numOne * numTwo);
+
+//this is a comment
+/* This is also a comment */
