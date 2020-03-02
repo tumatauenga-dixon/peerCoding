@@ -12,10 +12,3 @@ numFour = 400;
 sum = (numOne + (numThree * numFour))
 
 console.log("sum = " + sum)
-
-
-
-
-
-
-
